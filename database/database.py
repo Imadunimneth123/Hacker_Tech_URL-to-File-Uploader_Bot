@@ -1,4 +1,4 @@
-# (c) @SL_Jana_Team |@SL_Jana_Team
+# (c) @Hacker Tech |@Hacker Tech
 
 import datetime
 import motor.motor_asyncio
