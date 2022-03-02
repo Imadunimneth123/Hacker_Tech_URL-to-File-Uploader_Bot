@@ -1,5 +1,5 @@
 
-# (c) @SL_Jana_Team |SL_Jana_Team
+# (c) @Hacker Tech |Hacker Tech
 
 import traceback, datetime, asyncio, string, random, time, os, aiofiles, aiofiles.os
 from database.access import clinton
