@@ -38,9 +38,9 @@ async def help_user(bot, update):
         parse_mode="html",
         disable_web_page_preview=True,
        reply_markup=InlineKeyboardMarkup([
-      [InlineKeyboardButton("📌️ Telegram Channel 🔎", url="https://t.me/SL_Jana_Team"),
-        InlineKeyboardButton("📌️ Telegram Group 🔎", url="https://t.me/joinchat/YiGR_JLyIG84ZmY1")],
-         [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/SL_Jana_Team")],
+      [InlineKeyboardButton("📌️ Telegram Channel 🔎", url="https://t.me/+3Iy7Z-b-7GQxNjU1"),
+        InlineKeyboardButton("📌️ Telegram Group 🔎", url="https://t.me/+XL8rf6_-8Ec1MWM1")],
+         [InlineKeyboardButton("Developer 👨‍⚖️", url="https://t.me/+3Iy7Z-b-7GQxNjU1")],
          ]),
         reply_to_message_id=update.message_id
     )
