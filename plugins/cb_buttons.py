@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) SL_Jana_Team| Modified By > @SL_Jana_Team
+# (c) Hacker Tech| Modified By > @Hacker Tech
 
 
 from pyrogram import Client as Clinton
